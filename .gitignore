@@ -1,8 +1,12 @@
 /target/
+/bin/
+
+# Eclipse project directory
+/.settings/
+
+# Eclipse project file
 /.project
 /.classpath
-/bin/
-/.settings/
 
 # Compiled class file
 *.class
