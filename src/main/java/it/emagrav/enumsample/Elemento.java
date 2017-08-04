@@ -1,4 +1,4 @@
-package it.emagra.enumsample;
+package it.emagrav.enumsample;
 
 /** Elemento.java */
 
