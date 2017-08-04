@@ -2,7 +2,7 @@
 /.project
 /.classpath
 /bin/
-org.eclipse*
+/.settings/
 
 # Compiled class file
 *.class
